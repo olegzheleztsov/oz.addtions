@@ -1,0 +1,16 @@
+D:\Development\Oz.Additions\Oz.Client\bin\Debug\net5.0\Oz.Client.exe
+D:\Development\Oz.Additions\Oz.Client\bin\Debug\net5.0\Oz.Client.deps.json
+D:\Development\Oz.Additions\Oz.Client\bin\Debug\net5.0\Oz.Client.runtimeconfig.json
+D:\Development\Oz.Additions\Oz.Client\bin\Debug\net5.0\Oz.Client.runtimeconfig.dev.json
+D:\Development\Oz.Additions\Oz.Client\bin\Debug\net5.0\Oz.Client.dll
+D:\Development\Oz.Additions\Oz.Client\bin\Debug\net5.0\Oz.Client.pdb
+D:\Development\Oz.Additions\Oz.Client\obj\Debug\net5.0\Oz.Client.csproj.AssemblyReference.cache
+D:\Development\Oz.Additions\Oz.Client\obj\Debug\net5.0\Oz.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Oz.Additions\Oz.Client\obj\Debug\net5.0\Oz.Client.AssemblyInfoInputs.cache
+D:\Development\Oz.Additions\Oz.Client\obj\Debug\net5.0\Oz.Client.AssemblyInfo.cs
+D:\Development\Oz.Additions\Oz.Client\obj\Debug\net5.0\Oz.Client.csproj.CoreCompileInputs.cache
+D:\Development\Oz.Additions\Oz.Client\obj\Debug\net5.0\Oz.Client.dll
+D:\Development\Oz.Additions\Oz.Client\obj\Debug\net5.0\Oz.Client.pdb
+D:\Development\Oz.Additions\Oz.Client\obj\Debug\net5.0\Oz.Client.genruntimeconfig.cache
+D:\Development\Oz.Additions\Oz.Client\obj\Debug\net5.0\ref\Oz.Client.dll
+D:\Development\Oz.Additions\Oz.Client\obj\Debug\net5.0\refint\Oz.Client.dll
